@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project\\API\\API_Downloader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9A2968-27D2-464D-AC7C-A68A12F053F3}|API_Downloader\\API_Downloader.csproj|c:\\project\\api\\api_downloader\\api_downloader\\controllers\\youtubedownloadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9A2968-27D2-464D-AC7C-A68A12F053F3}|API_Downloader\\API_Downloader.csproj|solutionrelative:api_downloader\\controllers\\youtubedownloadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9A2968-27D2-464D-AC7C-A68A12F053F3}|API_Downloader\\API_Downloader.csproj|c:\\project\\api\\api_downloader\\api_downloader\\api_downloader.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6F9A2968-27D2-464D-AC7C-A68A12F053F3}|API_Downloader\\API_Downloader.csproj|solutionrelative:api_downloader\\api_downloader.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9A2968-27D2-464D-AC7C-A68A12F053F3}|API_Downloader\\API_Downloader.csproj|c:\\project\\api\\api_downloader\\api_downloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9A2968-27D2-464D-AC7C-A68A12F053F3}|API_Downloader\\API_Downloader.csproj|solutionrelative:api_downloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9A2968-27D2-464D-AC7C-A68A12F053F3}|API_Downloader\\API_Downloader.csproj|c:\\project\\api\\api_downloader\\api_downloader\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F9A2968-27D2-464D-AC7C-A68A12F053F3}|API_Downloader\\API_Downloader.csproj|solutionrelative:api_downloader\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YoutubeDownloadController.cs",
+              "DocumentMoniker": "C:\\Project\\API\\API_Downloader\\API_Downloader\\Controllers\\YoutubeDownloadController.cs",
+              "RelativeDocumentMoniker": "API_Downloader\\Controllers\\YoutubeDownloadController.cs",
+              "ToolTip": "C:\\Project\\API\\API_Downloader\\API_Downloader\\Controllers\\YoutubeDownloadController.cs",
+              "RelativeToolTip": "API_Downloader\\Controllers\\YoutubeDownloadController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T13:54:03.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "API_Downloader.http",
+              "DocumentMoniker": "C:\\Project\\API\\API_Downloader\\API_Downloader\\API_Downloader.http",
+              "RelativeDocumentMoniker": "API_Downloader\\API_Downloader.http",
+              "ToolTip": "C:\\Project\\API\\API_Downloader\\API_Downloader\\API_Downloader.http",
+              "RelativeToolTip": "API_Downloader\\API_Downloader.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-10T01:08:15.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Project\\API\\API_Downloader\\API_Downloader\\appsettings.json",
+              "RelativeDocumentMoniker": "API_Downloader\\appsettings.json",
+              "ToolTip": "C:\\Project\\API\\API_Downloader\\API_Downloader\\appsettings.json",
+              "RelativeToolTip": "API_Downloader\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-09T15:56:12.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Project\\API\\API_Downloader\\API_Downloader\\Program.cs",
+              "RelativeDocumentMoniker": "API_Downloader\\Program.cs",
+              "ToolTip": "C:\\Project\\API\\API_Downloader\\API_Downloader\\Program.cs",
+              "RelativeToolTip": "API_Downloader\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:51:47.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

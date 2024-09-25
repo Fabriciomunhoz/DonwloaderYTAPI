@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kimw00VePUZ+CUrG43cRS55Iy58QFzZGb6QYChPx2Q4=",
+  "Source": "API_Downloader",
+  "BasePath": "_content/API_Downloader",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

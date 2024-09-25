@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "API_Downloader.Controllers.YoutubeDownloadController",
+    "Method": "BaixarVideo",
+    "RelativePath": "api/youtube/baixarvideo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "videoID",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Url",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Downloader.Controllers.YoutubeDownloadController",
+    "Method": "ObterTitulo",
+    "RelativePath": "api/youtube/obtertitulo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Url",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Downloader.Controllers.YoutubeDownloadController",
+    "Method": "RemoverVideo",
+    "RelativePath": "api/youtube/removervideo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
